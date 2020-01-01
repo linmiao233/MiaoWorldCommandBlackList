@@ -1,0 +1,7 @@
+name: MiaoWorldCommandBlackList
+main: com.linmiao233.nukkit.MiaoWorldCommandBlackList.Main
+version: "1.0.2"
+api: ["1.0.0"]
+author: "linmiao233"
+description: 更多资源访问我们的官方网站http://bbs.i8mc.xyz
+website: http://bbs.i8mc.xyz
