@@ -1,5 +1,5 @@
 name: MiaoWorldCommandBlackList
-main: com.linmiao233.nukkit.MiaoWorldCommandBlackList.Main
+main: com.linmiao233.nukkitx.MiaoWorldCommandBlackList.Main
 version: "1.0.2"
 api: ["1.0.0"]
 author: "linmiao233"
